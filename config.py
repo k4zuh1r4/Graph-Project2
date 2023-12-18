@@ -1,0 +1,3 @@
+NODE_SIZE = 500
+NODE_COLOR = '#699EC7'
+FILE_PATH = 'testsheet3.csv'
